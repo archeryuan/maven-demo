@@ -1,2 +1,2 @@
 language: java
-script: cat README
+script: mvn clean compile package
