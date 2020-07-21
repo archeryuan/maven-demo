@@ -22,21 +22,28 @@ steps:
     goals: 'package'
 - script: 
     cat README
+    ehco '1111111111111111111111111111'
+    cat README
+    ehco '222222222222222'
+    cat README
+    echo '33333333333333333333'
+    cat README
+    cat README
+    cat README
+    echo '444444444444444444444444'
     cat README
     cat README
     cat README
     cat README
+    echo '55555555555555555555555555555'
     cat README
     cat README
     cat README
     cat README
+    echo '6666666666666666666666666666666666666'
     cat README
     cat README
-    cat README
-    cat README
-    cat README
-    cat README
-    cat README
+    echo '7777777777777777777777777777777777777777777'
     cat README
     cat README
     cat README
